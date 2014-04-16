@@ -25,4 +25,4 @@
         android:icon="@android:drawable/ic_menu_sort_alphabetically"
         android:orderInCategory="2"
         android:showAsAction="withText|ifRoom"/>
-</menu><!-- From: file:/D:/work/repos/osiander/module_zxing/android/src/main/res/menu/encode.xml -->
+</menu><!-- From: file:/E:/work/git/OSIANDER_ANDROID/module_zxing/android/src/main/res/menu/encode.xml -->

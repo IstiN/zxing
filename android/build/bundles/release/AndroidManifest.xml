@@ -12,7 +12,7 @@
  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  See the License for the specific language governing permissions and
  limitations under the License.
- --><!-- From: file:/D:/work/repos/osiander/module_zxing/android/src/main/AndroidManifest.xml --><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" android:versionCode="99" android:versionName="4.6.4" package="com.google.zxing.client.android">
+ --><!-- From: file:/E:/work/git/OSIANDER_ANDROID/module_zxing/android/src/main/AndroidManifest.xml --><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" android:versionCode="99" android:versionName="4.6.4" package="com.google.zxing.client.android">
 
   <uses-permission android:name="android.permission.CAMERA"/>
   <uses-permission android:name="android.permission.INTERNET"/>
